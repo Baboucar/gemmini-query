@@ -3,7 +3,7 @@ node_modules/
 dist/
 .vite/
 
-# Deno (if you ever cache modules)
+# Deno 
 .deno/
 
 # Wrangler / CF-Worker
