@@ -1,0 +1,6 @@
+name              = "gemmini-query"
+main              = "src/worker.js"
+compatibility_date = "2025-08-01"
+
+[vars]
+SUPABASE_FN = "https://rgsnrxdcozombcxuyxgo.supabase.co/functions/v1/sql"

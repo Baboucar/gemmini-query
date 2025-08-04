@@ -1,0 +1,19 @@
+# node / Vite
+node_modules/
+dist/
+.vite/
+
+# Deno (if you ever cache modules)
+.deno/
+
+# Wrangler / CF-Worker
+.workers
+wrangler.toml.local
+
+# VS Code, JetBrains, etc.
+.vscode/
+.idea/
+
+# OS cruft
+.DS_Store
+Thumbs.db
